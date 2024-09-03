@@ -13,14 +13,14 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     padding: 20px;
-    width: 280px;
+    width: 400px;
     box-sizing: border-box;
 }
 
 #display {
     width: 100%;
-    padding: 15px;
-    font-size: 24px;
+    padding: 20px;
+    font-size: 55px;
     border: 1px solid #3f7942;
     border-radius: 5px;
     text-align: right;
@@ -36,7 +36,7 @@ body {
 }
 
 button {
-    padding: 20px;
+    padding: 35px;
     font-size: 18px;
     border: 1px solid #ddd;
     border-radius: 5px;
