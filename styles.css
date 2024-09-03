@@ -21,12 +21,12 @@ body {
     width: 100%;
     padding: 15px;
     font-size: 24px;
-    border: 1px solid #ddd;
+    border: 1px solid #3f7942;
     border-radius: 5px;
     text-align: right;
     box-sizing: border-box;
     margin-bottom: 10px;
-    background-color: #f9f9f9;
+    background-color: #9dc183;
 }
 
 .buttons {
