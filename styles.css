@@ -5,11 +5,11 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f4f4f4;
+    background-color: #000;
 }
 
 .calculator {
-    background: #fff;
+    background: #212121;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     padding: 20px;
@@ -40,7 +40,7 @@ button {
     font-size: 18px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    background-color: #f9f9f9;
+    background-color: #ebd9c8;
     cursor: pointer;
     transition: background-color 0.2s ease;
     box-sizing: border-box;
@@ -49,7 +49,7 @@ button {
 }
 
 button:hover {
-    background-color: #e0e0e0;
+    background-color: #facba3;
 }
 
 button:active {
@@ -57,11 +57,11 @@ button:active {
 }
 
 .btn-number {
-    background-color: #e0e0e0;
+    background-color: #bfbfbf;
 }
 
 .btn-number:hover {
-    background-color: #d0d0d0;
+    background-color: #909090;
 }
 
 .btn-zero {
@@ -70,12 +70,12 @@ button:active {
 
 .btn-equal {
     grid-column: 4;
-    grid-row: span 2;
-    background-color: #ff8c00;
+    grid-row: span 3;
+    background-color: #fea02f;
     color: #fff;
     padding: 0; 
 }
 
 .btn-equal:hover {
-    background-color: #e07b00;
+    background-color: #de6600;
 }
